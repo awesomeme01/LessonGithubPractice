@@ -10,7 +10,7 @@ public class Main{//мир
         int[] numbers = new int[10];
 
         //новый коммент
-        //
+        //второй коммент
 
 
         for(int i = 0; i < numbers.length; i++){
