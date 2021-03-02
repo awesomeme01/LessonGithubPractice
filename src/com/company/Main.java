@@ -8,8 +8,10 @@ public class Main{//мир
     public static void main(String[] args) {
         Random rand = new Random();
         int[] numbers = new int[10];
+
         //новый коммент
         //
+
 
         for(int i = 0; i < numbers.length; i++){
             numbers[i] = rand.nextInt(6);//0 - 5
